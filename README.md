@@ -34,3 +34,14 @@
 2. TaskForceTeam members picks them up 
 
 -----------------------------------------------------
+
+
+-----------------------------------------------------
+
+## Differentiation between free and paid features 
+1. analytical tools
+2. point rewarding system (task attribute)
+
+Payment for premium features
+
+
