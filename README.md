@@ -1,4 +1,4 @@
-##Tasker
+## Tasker
 
 1. User should be able to set task for himself
 2. User can assign a task to other user
@@ -18,7 +18,7 @@
 
 ----------------------------------------------------
 
-##A task can or cannot have
+## A task can or cannot have
 1. completion date
 2. creation date
 3. score (?)
