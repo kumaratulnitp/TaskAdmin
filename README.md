@@ -4,7 +4,7 @@
 2. User can assign a task to other user
 3. User can accept a task
 4. User can deny a task
-5. User can be notified of task via (email/sms/whatsapp/alarm)
+5. User can be notified of task via (email/sms/whatsapp/alarm) - user can also have notification list or something
 6. User can update his task completion 
 7. User can see a consolidated list of tasks-
 	a. self
