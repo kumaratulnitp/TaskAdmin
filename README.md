@@ -14,7 +14,8 @@
 9. User can unblock a user 
 10. Blocker User cannot give task to blocked user
 11. Blocked user cannot give task to blocker user
-
+12. Tasks can only be assigned to users on this application
+13. Can have a notification system for unread notifications(depending on count or time since creation)
 
 ----------------------------------------------------
 
@@ -41,6 +42,10 @@
 ## Differentiation between free and paid features 
 1. analytical tools
 2. point rewarding system (task attribute)
+3. calendar view
+4. pro user can create group 
+5. pro user can analyse tasks done by all his group members
+
 
 Payment for premium features
 
